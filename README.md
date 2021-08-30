@@ -1,7 +1,7 @@
 ### Salve salve familia
-programador back-end cada dia mais próximo do colapso mental.
+Esse eh meugithub, não está muito profissional (um dia eu deixo :D)...
 
-Os repositório aí sao td open source, pode roubar meu código a vontade seus safadenho
+Os repositórios aí são td open source, pode roubar meu código a vontade seus safadenho
 <!--
 **forestileao/forestileao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
