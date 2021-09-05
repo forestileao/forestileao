@@ -1,7 +1,15 @@
-### Salve salve familia
-Esse eh meugithub, não está muito profissional (um dia eu deixo :D)...
+### Pedro Foresti Leão
+Hello there!
 
-Os repositórios aí são td open source, pode roubar meu código a vontade seus safadenho
+Welcome to my Github page, here you can find my personal projects that you can contribute and send pull requests to help on its development.
+All worth committers will appear as contributors on the README from the project.
+That's it, keep coding!
+
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=forestileao&show_icons=true&theme=radical)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=forestileao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **forestileao/forestileao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
