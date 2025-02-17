@@ -14,16 +14,6 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forestileao&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 <div>
-
-<br>
-
-<div align=left>
-
-- 🌱 I’m currently learning Fault Tolerant Systems.
-- 🔭 I’m looking forward to studying Elixir and Scala Advanced features.
-- 📫 How to reach me: [pedroforestileao@gmail.com][mail] or [Linkedin][linkedin].
-</div><br><br>
-  
   
   
  ## Languages and Tools
