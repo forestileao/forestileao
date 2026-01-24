@@ -37,16 +37,6 @@
 </div>
   <br>
 
-<h3>That I'm looking forward to learning</h3>
-<div style="display: inline_block">
- 
-  <img align="center" alt="Spark" height="30" src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black"/>
-  <img align="center" alt="Kafka" height="30" src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"/>
-  <img align="center" alt="RabbitMQ" height="30" src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
- </div>
-  <br>
-
-
   
   
   
