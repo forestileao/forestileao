@@ -20,7 +20,7 @@
  
 <h3>That I use</h3>
 <div style="display: inline_block;">
-    <img align="center" alt="Go" height="30" src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white"/>
+    <img align="center" alt="Go" height="30" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white"/>
 
   <img align="center" alt="Elixir" height="30" src="https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white"/>
 <img align="center" alt="Scala" height="30" src="https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white"/>
